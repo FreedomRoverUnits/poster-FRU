@@ -3,7 +3,7 @@
 ## Description
 Poster that was presented in the 2023 University of Utah Computer Engineering Capstone Demo Day.
 
-![poster](resources/fru_poster_v3.jpeg)
+![poster](resources/fru_poster_v3_media.png)
 
 ## Authors
 
