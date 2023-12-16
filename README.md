@@ -16,6 +16,5 @@ Brittney Morales [@charming21](https://github.com/charming21)
 Misael Nava [@Misael812](https://github.com/Misael812)
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-ex. * [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [ROBOTIS](https://github.com/ROBOTIS-GIT)
+* [Linorobot](https://github.com/linorobot)
